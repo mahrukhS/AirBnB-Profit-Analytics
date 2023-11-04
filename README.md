@@ -34,6 +34,6 @@ However, the reasons for choice can vary due to several factors such as marital 
 ![Count of Listings by No. of Bedrooms](https://github.com/mahrukhS/AirBnB-Profit-Analytics/assets/66876079/7c41e9b2-ee78-4155-aa94-eb9928873643)
 
 ## Profitable Metrics - Combined Dashboard
-When deciding to list your place for renting on Airbnb, one must consider whether the location is profitable, no. the bedroom(s) most sought out, the time and season when renting
+When deciding to list your place for renting on Airbnb, one must consider whether the location is profitable, no. of bedroom(s)/size most sought out, the time and season when renting
 
 ![Metrics to Consider for Hosting Airbnb Listing](https://github.com/mahrukhS/AirBnB-Profit-Analytics/assets/66876079/7a74e471-7ab5-4994-908d-f62d1ca16faa)
